@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Java
+*.class
+*.jar
+
+# C/C++
+*.o
+*.out
+*.exe
+
+# Node
+node_modules/
+npm-debug.log
+
+# Misc
+*.log
+.scratch/
